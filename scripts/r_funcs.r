@@ -4,6 +4,8 @@
 # Date: 2023-01-10
 # Desc: R functions frequently used in ESCC projects.
 
+# global options -----------------------------------------------------------------------------------
+options(readr.show_col_types = FALSE)
 
 # global params -----------------------------------------------------------------------------------------
 prog_group_comp <- list(
@@ -116,7 +118,7 @@ onco_colors <- list(
     treatment_sum = c(chemo='#749B58FF', `chemo+immune`='#F0E685FF')
 )
 
-scanpy_pal <- readRDS('/nfsshare2/nfshome/ming/projects/ESCC/assets/sc_palettes.rds')
+scanpy_pal <- readRDS('../data/sc_palettes.rds')
 
 # transform coordinate using logNp
 lognp_trans <- function(base = 10, n = 1) {
