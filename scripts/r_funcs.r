@@ -534,7 +534,8 @@ exhau_cyto_netplot2 <- function(df_node, df_edge, pt_fill, edge_color, edge_weig
       geom_segment(data = tmp, 
                    show.legend = T,
                    aes(x = `start_exhau`, y = `start_cyto`, xend = `end_exhau`, yend = `end_cyto`, color = .data[[edge_color]]), 
-                   linewidth = tmp[[edge_weight]] * 40,
+                   # size = tmp[[edge_weight]] * 40,
+                   linewidth = tmp[[edge_weight]] * 40,  # new version ggplot use linewidth
                    alpha = 0.8)
   }
   # add node
@@ -585,7 +586,8 @@ exhau_cyto_netplot <- function(df_node, df_edge, color_by, edge_weight='weight',
     p <- p + 
       geom_segment(data = tmp, 
                    aes(x = `start_exhau`, y = `start_cyto`, xend = `end_exhau`, yend = `end_cyto`), 
-                   linewidth = tmp[[edge_weight]] * 40,
+                   # size = tmp[[edge_weight]] * 40,
+                   linewidth = tmp[[edge_weight]] * 40,  # new version ggplot use linewidth (v3.4.0)
                    alpha = 0.8,
                    color = 'gray')
   }
