@@ -1,0 +1,2 @@
+.y.	group1	group2	n1	n2	statistic	p	method	.y_max	.y_min	.y_span	.comparison_index	y.position	xmin	xmax	p.adj	p.adj.label	p.adjust.method	alternative	paired
+pct_expand_diff	R	NR	12	13	23	0.003032647274486142	Wilcoxon rank-sum test	70.34682080924856	-72.61587218974506	142.96269299899362	1	81.78383624916805	1	2	0.003032647274486142	3.03e-03	BH	two.sided	FALSE

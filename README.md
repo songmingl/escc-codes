@@ -1,6 +1,5 @@
 # Codes for ESCC analysis
 
 ## File description
-- `data`: plotting data
-- `notebooks`: notebooks making paper relevant figures
-- `scripts`: scripts used for plotting and analysis
+- `ESCC_data_nb_fig`: data & codes for primary figures
+- `ESCC_data_nb_fig_sup`: data & codes for supplementary figures

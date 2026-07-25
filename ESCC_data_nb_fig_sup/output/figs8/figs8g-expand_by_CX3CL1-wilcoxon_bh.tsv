@@ -1,0 +1,2 @@
+.y.	group1	group2	n1	n2	statistic	p	method	.y_max	.y_min	.y_span	.comparison_index	y.position	xmin	xmax	p.adj	p.adj.label	p.adjust.method	alternative	paired
+cd8_cx3cr1_expand_pct_in_TNK	High	Low	36	37	852.5	0.035710810294676466	Wilcoxon rank-sum test	6.773618538324423	0	6.773618538324423	1	7.315508021390377	1	2	0.035710810294676466	3.57e-02	BH	two.sided	FALSE

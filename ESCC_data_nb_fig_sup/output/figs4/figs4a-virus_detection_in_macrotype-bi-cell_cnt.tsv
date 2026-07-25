@@ -1,0 +1,19 @@
+celltype	bi_type	n_cell
+B & Plasma	Non-detected	83532
+B & Plasma	Virus-detected	19649
+B & Plasma	NA	31
+Endothelial	Non-detected	34688
+Endothelial	Virus-detected	9349
+Endothelial	NA	18
+Epithelial	Non-detected	51237
+Epithelial	Virus-detected	23750
+Epithelial	NA	53
+Fibroblast	Non-detected	87797
+Fibroblast	Virus-detected	23322
+Fibroblast	NA	45
+Myeloid	Non-detected	89475
+Myeloid	Virus-detected	24917
+Myeloid	NA	244
+T cells	Non-detected	269138
+T cells	Virus-detected	32360
+T cells	NA	527

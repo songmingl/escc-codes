@@ -1,0 +1,10 @@
+subtype	.y.	group1	group2	n1	n2	statistic	p	method	.y_max	.y_min	.y_span	.comparison_index	y.position	xmin	xmax	p.adj	p.adj.label	p.adjust.method	alternative	paired
+CD8_CXCL13	pct_by_subtype	R-pre	R-post	22	14	257	8.792796899231845e-4	Wilcoxon rank-sum test	92.3076923076923	0	92.3076923076923	1	99.6923076923077	1	2	0.0026378390697695533	2.64e-03	BH	two.sided	FALSE
+CD8_CXCL13	pct_by_subtype	NR-pre	NR-post	16	13	82.5	0.35650398412537077	Wilcoxon rank-sum test	92.3076923076923	0	92.3076923076923	2	110.76923076923077	3	4	0.35650398412537077	3.57e-01	BH	two.sided	FALSE
+CD8_CXCL13	pct_by_subtype	R-post	NR-post	14	13	60	0.1386193019208193	Wilcoxon rank-sum test	92.3076923076923	0	92.3076923076923	3	121.84615384615384	2	4	0.20792895288122898	2.08e-01	BH	two.sided	FALSE
+CD8_TYMS	pct_by_subtype	R-pre	R-post	22	8	140	0.01560894268473474	Wilcoxon rank-sum test	80	0	80	1	86.4	1	2	0.04682682805420422	4.68e-02	BH	two.sided	FALSE
+CD8_TYMS	pct_by_subtype	NR-pre	NR-post	16	12	71	0.2551175594863139	Wilcoxon rank-sum test	80	0	80	2	96	3	4	0.2551175594863139	2.55e-01	BH	two.sided	FALSE
+CD8_TYMS	pct_by_subtype	R-post	NR-post	8	12	22	0.04617648330851047	Wilcoxon rank-sum test	80	0	80	3	105.6	2	4	0.0692647249627657	6.93e-02	BH	two.sided	FALSE
+T_MKI67	pct_by_subtype	R-pre	R-post	22	7	112	0.07866257565453616	Wilcoxon rank-sum test	69.4560669456067	0	69.4560669456067	1	75.01255230125523	1	2	0.23598772696360848	2.36e-01	BH	two.sided	FALSE
+T_MKI67	pct_by_subtype	NR-pre	NR-post	16	12	82	0.5306165750565202	Wilcoxon rank-sum test	69.4560669456067	0	69.4560669456067	2	83.34728033472803	3	4	0.5306165750565202	5.31e-01	BH	two.sided	FALSE
+T_MKI67	pct_by_subtype	R-post	NR-post	7	12	25	0.16131537965374027	Wilcoxon rank-sum test	69.4560669456067	0	69.4560669456067	3	91.68200836820084	2	4	0.2419730694806104	2.42e-01	BH	two.sided	FALSE

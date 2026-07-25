@@ -1,0 +1,7 @@
+sample_cat	response	n_patient	pat_gp
+Paired	NR	13	NR
+Paired	R	16	R
+Post-only	R	3	R
+Pre-only	NR	3	NR
+Pre-only	R	6	R
+Pre-only	NA	11	unknown

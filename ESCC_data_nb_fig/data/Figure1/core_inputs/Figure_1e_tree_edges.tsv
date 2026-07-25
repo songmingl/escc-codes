@@ -1,0 +1,97 @@
+from	to	major_cell_type
+All cells	B & Plasma cells	B & Plasma cells
+B & Plasma cells	B_CD83	B & Plasma cells
+B & Plasma cells	B_DUSP4	B & Plasma cells
+B & Plasma cells	B_HLA-DRA	B & Plasma cells
+B & Plasma cells	B_Mito	B & Plasma cells
+B & Plasma cells	B_RGS13	B & Plasma cells
+B & Plasma cells	B_T_Mix	B & Plasma cells
+B & Plasma cells	Plasma_CPA3	B & Plasma cells
+B & Plasma cells	Plasma_CXCL8	B & Plasma cells
+B & Plasma cells	Plasma_DCN	B & Plasma cells
+B & Plasma cells	Plasma_IGHG1	B & Plasma cells
+B & Plasma cells	Plasma_IGKC	B & Plasma cells
+B & Plasma cells	Plasma_RRM2	B & Plasma cells
+B & Plasma cells	Plasma_S100A6	B & Plasma cells
+B & Plasma cells	Plasma_SSR4	B & Plasma cells
+All cells	Endothelial	Endothelial
+Endothelial	Endo_ACKR1	Endothelial
+Endothelial	Endo_CCL21	Endothelial
+Endothelial	Endo_CDH19	Endothelial
+Endothelial	Endo_DCN	Endothelial
+Endothelial	Endo_IL1B	Endothelial
+Endothelial	Endo_KRT15	Endothelial
+Endothelial	Endo_MKI67	Endothelial
+Endothelial	Endo_Mito	Endothelial
+Endothelial	Endo_RGS5	Endothelial
+Endothelial	Endo_SLC9A3R2	Endothelial
+Endothelial	Endo_TPSAB1	Endothelial
+Endothelial	Endo_T_Mix	Endothelial
+All cells	Epithelial	Epithelial
+Epithelial	Epi_A_IL1R2	Epithelial
+Epithelial	Epi_A_MGP	Epithelial
+Epithelial	Epi_B_Mix	Epithelial
+Epithelial	Epi_M_ACTL8	Epithelial
+Epithelial	Epi_M_CALML3	Epithelial
+Epithelial	Epi_M_CPS1	Epithelial
+Epithelial	Epi_M_MYBPC1	Epithelial
+Epithelial	Epi_M_PKP2	Epithelial
+Epithelial	Epi_M_RNASE1	Epithelial
+Epithelial	Epi_M_SPRR3	Epithelial
+Epithelial	Epi_N_LTF	Epithelial
+Epithelial	Epi_N_PIGR	Epithelial
+Epithelial	Epi_T_Mix	Epithelial
+All cells	Fibroblast	Fibroblast
+Fibroblast	Fibro_ACKR1	Fibroblast
+Fibroblast	Fibro_B_Mix	Fibroblast
+Fibroblast	Fibro_C7	Fibroblast
+Fibroblast	Fibro_CFD	Fibroblast
+Fibroblast	Fibro_CLDN1	Fibroblast
+Fibroblast	Fibro_CXCL2	Fibroblast
+Fibroblast	Fibro_DES	Fibroblast
+Fibroblast	Fibro_KRT17	Fibroblast
+Fibroblast	Fibro_MMP1	Fibroblast
+Fibroblast	Fibro_MUSTN1	Fibroblast
+Fibroblast	Fibro_Mito	Fibroblast
+Fibroblast	Fibro_POSTN	Fibroblast
+Fibroblast	Fibro_PTGDS	Fibroblast
+Fibroblast	Fibro_RGS5	Fibroblast
+Fibroblast	Fibro_RRM2	Fibroblast
+Fibroblast	Fibro_TPSAB1	Fibroblast
+Fibroblast	Fibro_TYROBP	Fibroblast
+Fibroblast	Fibro_T_Mix	Fibroblast
+All cells	Myeloid	Myeloid
+Myeloid	Mast	Myeloid
+Myeloid	Mp_C1QA	Myeloid
+Myeloid	Mye_B_Mix	Myeloid
+Myeloid	Mye_CCL19	Myeloid
+Myeloid	Mye_CLEC10A	Myeloid
+Myeloid	Mye_CLEC9A	Myeloid
+Myeloid	Mye_EGR1	Myeloid
+Myeloid	Mye_FCN1	Myeloid
+Myeloid	Mye_LILRA4	Myeloid
+Myeloid	Mye_MKI67	Myeloid
+Myeloid	Mye_Mito	Myeloid
+Myeloid	Mye_S100A8	Myeloid
+Myeloid	Mye_T_Mix	Myeloid
+All cells	T cells	T cells
+T cells	CD4_CXCL13	T cells
+T cells	CD4_KLRB1	T cells
+T cells	CD8_ANXA1	T cells
+T cells	CD8_CCL5	T cells
+T cells	CD8_CD74	T cells
+T cells	CD8_CX3CR1	T cells
+T cells	CD8_CXCL13	T cells
+T cells	CD8_FOS	T cells
+T cells	CD8_GZMK	T cells
+T cells	CD8_IFIT1	T cells
+T cells	CD8_KLRB1	T cells
+T cells	CD8_TYMS	T cells
+T cells	NK	T cells
+T cells	NK_CX3CR1	T cells
+T cells	T_IL7R	T cells
+T cells	T_MKI67	T cells
+T cells	T_Mito	T cells
+T cells	T_Ribo	T cells
+T cells	Treg_LTB	T cells
+T cells	Treg_TNFRSF4	T cells

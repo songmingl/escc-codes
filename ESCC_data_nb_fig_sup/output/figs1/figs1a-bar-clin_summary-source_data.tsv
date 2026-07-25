@@ -1,0 +1,15 @@
+category	response	n	panel
+NA	NR	1	treatment
+NA	NA	4	treatment
+chemo	NR	6	treatment
+chemo	R	4	treatment
+chemo	NA	1	treatment
+chemo+immune	NR	9	treatment
+chemo+immune	R	21	treatment
+chemo+immune	NA	6	treatment
+1	R	14	Mandard score
+2	R	11	Mandard score
+3	NR	5	Mandard score
+4	NR	10	Mandard score
+5	NR	1	Mandard score
+NA	NA	11	Mandard score

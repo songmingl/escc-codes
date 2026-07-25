@@ -1,0 +1,100 @@
+patient_id	patient	response	sample_id	sample_type	tissue_cat	scRNA_seq	WES	venn_region	sample_stage
+013	P43	R	01-013-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+014	P40	NR	01-014-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+016	P41	R	01-016-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+018	P46	R	01-018-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+021	P44	R	01-021-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+022	P45	NR	01-022-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+028	P03	NR	01-028-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+030	P05	R	01-030-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+032	P47	R	01-032-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+033	P07	NR	01-033-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+035	P09	NR	01-035-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+036	P10	NA	01-036-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+038	P11	NA	01-038-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+039	P16	R	01-039-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+040	P14	R	01-040-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+041	P13	NR	01-041-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+044	P12	NR	01-044-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+045	P19	R	01-045-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+048	P22	NA	01-048-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+049	P23	R	01-049-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+051	P25	R	01-051-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+052	P26	R	01-052-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+053	P49	NR	01-053-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+054	P48	NR	01-054-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+055	P27	R	01-055-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+056	P28	R	01-056-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+061	P33	NR	01-061-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+062	P34	R	01-062-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+064	P50	NR	01-064-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+065	P51	R	01-065-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+066	P36	R	01-066-T	Baseline	Tumor	TRUE	TRUE	WES and scRNA-seq	pre
+006	P38	R	01-006-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+008	NA	R	01-008-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+009	NA	NR	01-009-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+010	NA	R	01-010-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+011	NA	R	01-011-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+012	P39	R	01-012-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+015	NA	R	01-015-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+017	P42	R	01-017-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+074	NA	R	01-074-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+075	NA	R	01-075-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+076	NA	NR	01-076-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+079	NA	NA	01-079-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+080	NA	R	01-080-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+081	NA	NR	01-081-T	Baseline	Tumor	FALSE	TRUE	WES only	pre
+019	P52	NA	01-019-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+025	P01	R	01-025-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+026	P02	NA	01-026-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+029	P04	NR	01-029-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+031	P06	NA	01-031-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+034	P08	R	01-034-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+037	P17	NR	01-037-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+042	P15	R	01-042-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+043	P18	NA	01-043-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+046	P20	NR	01-046-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+047	P21	R	01-047-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+050	P24	NR	01-050-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+057	P29	NA	01-057-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+058	P30	NA	01-058-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+059	P31	NR	01-059-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+060	P32	R	01-060-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+063	P35	NA	01-063-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+067	P37	NA	01-067-T	Baseline	Tumor	TRUE	FALSE	scRNA-seq only	pre
+041	P13	NR	03-041-T	Treat	Tumor	TRUE	TRUE	WES and scRNA-seq	post
+051	P25	R	03-051-T	Treat	Tumor	TRUE	TRUE	WES and scRNA-seq	post
+061	P33	NR	03-061-T	Treat	Tumor	TRUE	TRUE	WES and scRNA-seq	post
+062	P34	R	03-062-T	Treat	Tumor	TRUE	TRUE	WES and scRNA-seq	post
+053	P49	NR	03-053-T	Treat	Tumor	FALSE	TRUE	WES only	post
+074	NA	R	03-074-T	Treat	Tumor	FALSE	TRUE	WES only	post
+079	NA	NA	03-079-T	Treat	Tumor	FALSE	TRUE	WES only	post
+080	NA	R	03-080-T	Treat	Tumor	FALSE	TRUE	WES only	post
+006	P38	R	03-006-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+012	P39	R	03-012-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+013	P43	R	03-013-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+014	P40	NR	03-014-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+016	P41	R	03-016-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+017	P42	R	03-017-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+018	P46	R	03-018-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+021	P44	R	03-021-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+022	P45	NR	03-022-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+025	P01	R	03-025-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+028	P03	NR	03-028-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+029	P04	NR	03-029-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+030	P05	R	03-030-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+032	P47	R	03-032-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+033	P07	NR	03-033-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+034	P08	R	03-034-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+035	P09	NR	03-035-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+037	P17	NR	03-037-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+042	P15	R	03-042-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+044	P12	NR	03-044-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+046	P20	NR	03-046-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+047	P21	R	03-047-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+050	P24	NR	03-050-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+052	P26	R	03-052-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+054	P48	NR	03-054-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+055	P27	R	03-055-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+056	P28	R	03-056-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
+065	P51	R	03-065-T	Treat	Tumor	TRUE	FALSE	scRNA-seq only	post
